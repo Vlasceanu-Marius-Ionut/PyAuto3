@@ -1,0 +1,7 @@
+Host Status
+===========
+8.8.8.8 (Public IP): ONLINE
+www.google.com (Public IP): ONLINE
+9.9.9.9 (Public IP): ONLINE
+8.8.8.8 (Public IP): ONLINE
+192.168.10.1 (Private IP): OFFLINE
